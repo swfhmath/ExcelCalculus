@@ -73,7 +73,7 @@
         <figure xml:id="Supply-Demand-Intersection">
           <caption>The intersection of a supply and demand curve</caption>
           <image width="50%" source="images/sec1-1-SDcurves.png">
-              <description>The intersection of a supply and demand curve</description>
+              <shortdescription>The intersection of a supply and demand curve</shortdescription>
           </image>
         </figure>
 
@@ -92,7 +92,7 @@
       </assemblage>
 
       <image width="50%" source="images/sec1-1-slope.png">
-          <description>The intersection of a supply and demand curve</description>
+          <shortdescription>The intersection of a supply and demand curve</shortdescription>
       </image>
 
       <p>
