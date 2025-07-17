@@ -456,7 +456,7 @@
 
     <reading-questions xml:id="rq-s2-2">     <title>Reading Check</title>
 
-      <exercise> label="Reading_Check_Sec2.2">  <title>Reading check, Modeling Revenue, Costs, and Profit</title>
+      <exercise label="Reading_Check_Sec2.2">  <title>Reading check, Modeling Revenue, Costs, and Profit</title>
           <webwork>
             <pg-code>
               $checks = CheckboxList(
@@ -476,7 +476,7 @@
                  "None of the above"
                 ],
                 [0, 1, 2, 3, 4, 5],
-                labels => "ABC",   # "abc", "123", "roman", "Roman"
+                labels =&gt; "ABC",   # "abc", "123", "roman", "Roman"
               );
             </pg-code>
             <statement>
@@ -496,7 +496,7 @@
     <exercises xml:id="exercises-set-sec-2-2">
       <title>Exercises: Modeling Revenue, Costs, and Profit</title>
 
-      <exercise> label="Reading_Check_Sec2.2"
+      <exercise label="Reading_Check_Sec2.2">
         <title>Reading check, Modeling Revenue, Costs, and Profit</title>
           <webwork>
             <pg-code>
@@ -517,7 +517,7 @@
                  "None of the above"
                 ],
                 [0, 1, 2, 3, 4, 5],
-                labels => "ABC",   # "abc", "123", "roman", "Roman"
+                labels =&gt; "ABC",   # "abc", "123", "roman", "Roman"
               );
             </pg-code>
             <statement>
