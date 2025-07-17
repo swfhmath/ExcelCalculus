@@ -7,6 +7,7 @@
     <source>
       <directories external="../assets" generated="../generated-assets"/>
     </source>
+    <webwork server="https://webwork-ptx.aimath.org" course="anonymous" user="anonymous" password="anonymous" />
     <common>
       <tableofcontents level="3"/>
       <exercise-inline hint="no" answer="no" solution="no"/>
