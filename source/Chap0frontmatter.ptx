@@ -1,55 +1,58 @@
-<frontmatter>
+<?xml version="1.0" encoding="UTF-8"?>
+<frontmatter label="frontmatter">
     <title>Frontmatter</title>
-
-    <titlepage>
+    <bibinfo>
         <author>
             <personname>Mike May, S.J.</personname>
-    <department>Department of Mathematics and Statistics</department>
+            <department>Department of Mathematics and Statistics</department>
             <institution>Saint Louis University</institution>
-    <email>maymk@slu.edu</email>
+            <email>maymk@slu.edu</email>
         </author>
         <author>
             <personname>Anneke Bart</personname>
-    <department>Department of Mathematics and Statistics</department>
+            <department>Department of Mathematics and Statistics</department>
             <institution>Saint Louis University</institution>
-    <email>barta@slu.edu</email>
+            <email>barta@slu.edu</email>
         </author>
         <date><today /></date>
+
+        <copyright>
+            <year>2012<ndash />2025</year>
+            <holder>Mike May, S.J. and Anneke Bart</holder>
+            <minilicense>Creative Commons BY-NC-SA</minilicense>
+            <shortlicense>
+               Licensed to the public under a <url href="http://creativecommons.org/licenses/by-nc-sa/4.0/" visual="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</url>
+            </shortlicense>
+        <!-- <creativecommons BY="yes" NC="yes" ubiquity="medium"/> -->
+        </copyright>
+    </bibinfo>
+    
+    <titlepage>
+        <titlepage-items/>
     </titlepage>
 
-    <colophon>
-
-      <copyright>
-        <year>2012<ndash />2025</year>
-        <holder>Mike May, S.J. and Anneke Bart</holder>
-        <minilicense>Creative Commons BY-NC-SA</minilicense>
-        <shortlicense>
-          Licensed to the public under a <url href="http://creativecommons.org/licenses/by-nc-sa/4.0/" visual="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</url>
-        </shortlicense>
-        <!-- <creativecommons BY="yes" NC="yes" ubiquity="medium"/> -->
-      </copyright>
-
-          <!-- <p><url href="excelcalculus.pdf" >Link to a pdf version of this text</url></p> -->
-
-
-
-
+    <colophon label="colophon">
+        <colophon-items/>
+            <!-- <p><url href="excelcalculus.pdf" >Link to a pdf version of this text</url></p> -->
     </colophon>
 
 	<!-- Accepted order: acknowledgements, forewords, prefaces -->
 
-	<acknowledgement>
-
-
+	  <acknowledgement>
 		<!-- Added NSF support statement.   -->
-		<p>This book got its start at a talk by Felkel and Richardson  at ICTCM in 2000 where they claimed "Business students should be taught math using spreadsheets."  A number of years later I tried teaching with their book and found much to appreciate from their approach.  Their book, Networked Business Mathematics, is the initial inspiration of this book.  However, as often happens when an academic looks at a textbook, I found the authors had made some choices I disagreed with, so I wanted to write my own text.  As I was going through beta versions of this book, I  discovered the 2004 report of the Curriculum Reform Across the First Two Years (CRAFTY) sub-committee of the Mathematical Association of America (MAA), and the MAA's 2004 curriculum guide.  That report has guided many decisions concerning this text.
-</p>
+    		<p>
+          This book got its start at a talk by Felkel and Richardson  at ICTCM in 2000 where they claimed "Business students should be taught math using spreadsheets."  A number of years later I tried teaching with their book and found much to appreciate from their approach.  Their book, Networked Business Mathematics, is the initial inspiration of this book.  However, as often happens when an academic looks at a textbook, I found the authors had made some choices I disagreed with, so I wanted to write my own text.  As I was going through beta versions of this book, I  discovered the 2004 report of the Curriculum Reform Across the First Two Years (CRAFTY) sub-committee of the Mathematical Association of America (MAA), and the MAA's 2004 curriculum guide.  That report has guided many decisions concerning this text.
+        </p>
 
-<p>  The book has been rewritten in PreTeXt (<url href="https://pretextbook.org/index.html" visual="https://pretextbook.org/index.html"> https://pretextbook.org/index.html</url>), making it possible to quickly output print, web, <acro>PDF</acro> versions and more from the same source.</p>
+        <p>
+            The book has been rewritten in PreTeXt (<url href="https://pretextbook.org/index.html" visual="https://pretextbook.org/index.html"> https://pretextbook.org/index.html</url>), making it possible to quickly output print, web, <acro>PDF</acro> versions and more from the same source.
+        </p>
 
-<p>  The continued development of my attempt to make courses that better fit the needs of business students has received support from the National Science Foundation (Award #DUE-16251423.)</p>
+        <p>
+            The continued development of my attempt to make courses that better fit the needs of business students has received support from the National Science Foundation (Award #DUE-16251423.)
+        </p>
 
-	</acknowledgement>
+	  </acknowledgement>
 
 	<preface>
 

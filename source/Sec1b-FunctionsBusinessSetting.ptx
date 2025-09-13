@@ -40,7 +40,7 @@
       <figure>
        <caption>A quadratic function</caption>
         <image width="50%" source="images/sec1-2-QuadraticFunctions.png" xml:id="quadraticFunctions">
-            <description>The intersection revenue and demand price</description>
+            <shortdescription>The intersection revenue and demand price</shortdescription>
         </image>
       </figure>
 
@@ -149,7 +149,7 @@
       </p>
 
       <image width="50%" source="images/sec1-2-LogisticFunction.png" xml:id="LogisticFunctionImage">
-          <description>Graph of a logistic function</description>
+          <shortdescription>Graph of a logistic function</shortdescription>
       </image>
     </subsection>
 
@@ -172,7 +172,7 @@
       </p>
 
       <image width="50%" source="images/sec1-2-SinCurve.png"  xml:id="SinFunctionImage">
-          <description>The intersection revenue and demand price</description>
+          <shortdescription>The intersection revenue and demand price</shortdescription>
       </image>
     </subsection>
 
@@ -194,7 +194,7 @@
       </p>
 
       <image width="50%" source="images/sec1-2-NormalCurve.png"  xml:id="NormalCurveImage">
-          <description>A normal curve</description>
+          <shortdescription>A normal curve</shortdescription>
       </image>
 
       <p>
@@ -218,7 +218,7 @@
       </p>
 
       <image width="50%" source="images/sec1-2-InverseCurve.png"  xml:id="InverseCurveImage">
-          <description>An inversely proportional function</description>
+          <shortdescription>An inversely proportional function</shortdescription>
       </image>
     </subsection>
 
@@ -234,7 +234,7 @@
       </p>
 
       <image width="50%" source="images/sec1-2-LogCurve.png"  xml:id="LogFunctionImage">
-          <description>A logarithmic function graph</description>
+          <shortdescription>A logarithmic function graph</shortdescription>
       </image>
 
     </subsection>
