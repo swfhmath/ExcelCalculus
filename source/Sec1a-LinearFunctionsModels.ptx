@@ -45,6 +45,33 @@
         We will also follow the conventions of economics in treating quantity as the independent variable.
         (The <m>q</m>-axis will be the horizontal axis.  This can seem like a backwards choice, but a fast web search for supply and demand equilibrium will convince you this standard usage.)
       </p>
+
+      <example>
+        <title>Supply and Demand Curves</title>
+        <p>
+          Supply and demand equations are often modeled by linear equations.
+          In the figure below we see a supply and demand diagram. 
+          The vertical axis measures the price of a good, and the horizontal axis measures quantity.
+          Both supply (S) and demand (D) are linear functions in this example.
+          <!-- In this diagram <sq>B</sq> denotes a surplus of supply, and <sq>A</sq> denotes a surplus of demand.-->
+        </p>
+        <p>
+          The supply function has positive slope, indicating that more producers join a market as the price of a good rises. As we read the graph from left-to-right, S rises or "increases." 
+          </p>
+          <p>The demand function has negative slope, indicating that fewer consumers purhcase a good as its price rises. As we read the graph from left-to-right, D falls or "decreases."
+        </p>
+
+        <figure xml:id="Supply-Demand-Intersection">
+          <caption>Linear supply and demand curves</caption>
+          <image width="50%" source="images/sec1-1-SDcurves.png">
+              <shortdescription>The intersection of a supply and demand curve</shortdescription>
+          </image>
+        </figure>
+
+        
+      </example>
+
+
       <p>
         With this notation these standard equations of a line become:
       </p>
@@ -62,26 +89,6 @@
         </sbsgroup>
       </assemblage>
 
-      <example>
-        <title>Supply and Demand Curves</title>
-        <p>
-          Supply and demand equations are often modeled by linear equations.
-          The supply function is a line with a positive slope, and the demand function is a line with a negative slope.
-        </p>
-
-        <figure xml:id="Supply-Demand-Intersection">
-          <caption>The intersection of a supply and demand curve</caption>
-          <image width="50%" source="images/sec1-1-SDcurves.png">
-              <shortdescription>The intersection of a supply and demand curve</shortdescription>
-          </image>
-        </figure>
-
-        <p>
-          The vertical axis shows the price, the horizontal axis shows quantity.
-          Both supply (S) and demand (D) are linear functions.
-          <!-- In this diagram <sq>B</sq> denotes a surplus of supply, and <sq>A</sq> denotes a surplus of demand.-->
-        </p>
-      </example>
 
       <p>
         Recall, that the slope of a line through the points <m>P_0=(q_0,p_0)</m> and <m>P_1=(q_1,p_1)</m> is given by:
