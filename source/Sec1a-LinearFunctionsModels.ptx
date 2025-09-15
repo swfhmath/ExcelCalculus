@@ -89,13 +89,20 @@
         </sbsgroup>
       </assemblage>
 
-
-      <p>
-        Recall, that the slope of a line through the points <m>P_0=(q_0,p_0)</m> and <m>P_1=(q_1,p_1)</m> is given by:
+      <definition>
+        <title>Slope</title>
+        <statement>
+          <p>
+        The slope of a line through the points <m>P_0=(q_0,p_0)</m> and <m>P_1=(q_1,p_1)</m> is given by:
       </p>
       <assemblage xml:id="SlopeDef">
           <p><me>m=\frac{\text{rise}}{\text{run}}=\frac{(p_1-p_0)}{(q_1-q_0 )}</me></p>
-      </assemblage>
+      </assemblage>    
+          </p>
+        </statement>
+      </definition>
+      
+        
 
       <image width="50%" source="images/sec1-1-slope.png">
           <shortdescription>The intersection of a supply and demand curve</shortdescription>
