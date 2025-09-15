@@ -5,22 +5,20 @@
     <introduction>
       <p>
         We will start this chapter with a review of linear functions, which are common in business.
-        We start by reviewing some standard concepts related to lines, including the slope.
+        <ul>
+          <li><p>We will review the equations of a line (4 possible formats).</p></li>
+          <li><p>We will see how to use lines to model business situations (emphasizing price, <m>p</m>, and quantity, <m>q</m>).</p></li>
+          <li><p>We will see how to use Excel to graph lines and to analyze linear models.</p></li>
+        </ul>
       </p>
 
-      <p>
-        Following the conventions of microeconomics, we will often use the variables q and p,
-        for quantity and price rather than x and y.
-        We will also follow the conventions of economics in treating quantity as the independent variable.
-        (The q-axis will be the horizontal axis.  A fast web search for supply and demand equilibrium will convince you this standard usage.)
-      </p>
+      
     </introduction>
 
     <subsection><title>Equations of a line</title>
 
       <p>
-        From prior courses, such as college algebra,
-        you will remember that lines can be written in several different forms.
+        Remember that lines can be written in several different forms.
         If we are given the slope and the <m>y</m>-intercept,
         the slope intercept form will be the equation of choice.
         If we are given a point and a slope, it might be faster if we use the point-slope form of a line.
@@ -42,9 +40,10 @@
       </assemblage>
 
       <p>
-        In a business setting we are likely to use <m>q</m> instead of <m>x</m> and <m>p</m> instead of <m>y</m>.
+        Following the conventions of microeconomics, we will often use the variable <m>q</m> instead of <m>x</m> (representing the <emph>quantity</emph> of a good produced or consumed), and <m>p</m> instead of <m>y</m> (representing price).
+        We will also follow the conventions of economics in treating quantity as the independent variable.
+        (The q-axis will be the horizontal axis.  This can seem like a backwards choice, but a fast web search for supply and demand equilibrium will convince you this standard usage.)
       </p>
-
       <p>
         With this notation these standard equations of a line become:
       </p>
