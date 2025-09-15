@@ -4,11 +4,12 @@
     <title>Linear Functions and models</title>
     <introduction>
       <p>
-        We will start this chapter with a review of linear functions, which are common in business.
+        We will start this chapter with a review of line (or "linear") functions, which are common in business.
         <ul>
           <li><p>We will review the equations of a line (4 possible formats).</p></li>
-          <li><p>We will see how to use lines to model business situations (emphasizing price, <m>p</m>, and quantity, <m>q</m>).</p></li>
-          <li><p>We will see how to use Excel to graph lines and to analyze linear models.</p></li>
+          <li><p>We will review slope: its formula and the significance of positive and negative slope values.</p></li>
+          <li><p>We will take a first look at how lines model business situations (emphasizing price, <m>p</m>, and quantity, <m>q</m>).</p></li>
+          
         </ul>
       </p>
 
@@ -78,7 +79,7 @@
         <p>
           The vertical axis shows the price, the horizontal axis shows quantity.
           Both supply (S) and demand (D) are linear functions.
-          In this diagram <sq>B</sq> denotes a surplus of supply, and <sq>A</sq> denotes a surplus of demand.
+          <!-- In this diagram <sq>B</sq> denotes a surplus of supply, and <sq>A</sq> denotes a surplus of demand.-->
         </p>
       </example>
 
