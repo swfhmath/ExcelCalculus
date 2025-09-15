@@ -25,10 +25,10 @@
 
         <copyright>
             <year>2012<ndash />2025</year>
-            <holder>Mike May, S.J. and Anneke Bart with customization by Sarah Williams</holder>
+            <holder>Mike May, S.J. and Anneke Bart</holder>
             <minilicense>Creative Commons BY-NC-SA</minilicense>
             <shortlicense>
-               A stable version of this work by May and Bart is licensed to the public under a <url href="http://creativecommons.org/licenses/by-nc-sa/4.0/" visual="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</url>
+               This instance, customized by Sarah Williams, is for classroom use at Foothill College. A stable version of this work by May and Bart is licensed to the public under a <url href="http://creativecommons.org/licenses/by-nc-sa/4.0/" visual="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</url>
             </shortlicense>
         <!-- <creativecommons BY="yes" NC="yes" ubiquity="medium"/> -->
         </copyright>
@@ -59,7 +59,7 @@
             The continued development of my attempt to make courses that better fit the needs of business students has received support from the National Science Foundation (Award #DUE-16251423.)
         </p>
         <p>
-            From Sarah Williams: This book has been customized for use at Foothill College.  I am grateful to Mike May for allowing me to customize his work, and to Ted Pier for helping with technology.
+            From Sarah Williams: I am grateful to Mike May for sharing and allowing me to customize this work. Thanks also to Ted Pier for helping with technology.
         </p>
 	  </acknowledgement>
 
