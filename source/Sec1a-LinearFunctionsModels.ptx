@@ -85,7 +85,7 @@
 
 
     <p>
-        With this <m>p</m> and <m>q</m> notation, these standard equations of a line become:
+        With this <m>p</m> and <m>q</m> notation, the equations of a line become:
     </p>
 
     <assemblage xml:id="PQLinearEquations">
@@ -169,6 +169,11 @@
         </sidebyside>
       </sbsgroup>
     </assemblage>
+
+ </subsection>
+
+ <subsection>
+    <title>Worked Examples</title>
 
     <example>
       <title>Finding four versions of a line</title>
