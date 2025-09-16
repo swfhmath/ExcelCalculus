@@ -31,6 +31,7 @@
         If we are given the slope and the <m>y</m>-intercept,
         the slope-intercept form will be the equation of choice.
         If we are given the slope and a different point (not the <m>y</m>-intercept), it might be more efficient to use the point-slope form of a line.
+        It will also be useful to know the general form of a line, which sets one side equal to zero. 
     </p>
 
     <assemblage xml:id="KindsOfLinearEquations">
@@ -49,6 +50,12 @@
           </p>
           <p>the point-slope form of a line</p>
         </sidebyside>
+        <sidebyside>
+          <p>
+            <m>a x+b y+c=0</m>
+          </p>
+          <p> The general form of a line</p>
+        </sidebyside>
       </sbsgroup>
     </assemblage>
 
@@ -56,15 +63,66 @@
   <subsection>
     <title>Slope of a line</title>
 <p>
-This is what to say about slope.
+
+    <definition>
+      <title>Slope</title>
+      <statement>
+        <p>The slope of a line through the points <m>P_0=(x_0,y_0)</m> and <m>P_1=(x_1,y_1)</m> is given by:</p>
+        <assemblage xml:id="SlopeDef">
+          <p>
+            <me>m=\frac{\text{rise}}{\text{run}}=\frac{(y_1-y_0)}{(x_1-x_0 )}</me>
+          </p>
+        </assemblage>
+      </statement>
+    </definition>
+
+    <image width="50%" source="images/sec1-1-slope.png">
+      <shortdescription>The intersection of a supply and demand curve</shortdescription>
+    </image>
+
+
+    <p>
+        There are two other forms of a line that are sometimes used.
+        The general form of a line is a standard notation used in mathematics.
+        The 2-point form of a line is very handy in those situations where we are not given a slope,
+        but we are given information about two points that lie on the line.
+    </p>
+
+    <assemblage xml:id="TwoPtLinearEquations">
+      <sbsgroup widths="50% 50%">
+        
+        <sidebyside>
+          <p>
+            <m>y-y_0=\frac{y_1-y_0}{x_1-x_0 }(x-x_0)</m>
+          </p>
+          <p>The 2-point form of a line</p>
+        </sidebyside>
+      </sbsgroup>
+    </assemblage>
+
 </p>
 
-
+ </subsection>
+  <subsection>
+    <title>Applying Lines to Business, and Adopting some Conventions of Economics</title>
     <p>
         Following the conventions of microeconomics, we will often use the variable <m>q</m> instead of <m>x</m> (representing the <em>quantity</em> of a good produced or consumed), and <m>p</m> instead of <m>y</m> (representing <em>price</em>).
         We will also follow the conventions of economics in treating quantity as the independent variable.
         (The <m>q</m>-axis will be the horizontal axis.  This can seem like a backwards choice, but a quick web search for supply and demand equilibrium will convince you of this standard usage.)
     </p>
+
+    <definition>
+      <title>Slope</title>
+      <statement>
+        <p>The slope of a line through the points <m>P_0=(q_0,p_0)</m> and <m>P_1=(q_1,p_1)</m> is given by:</p>
+        <assemblage xml:id="SlopeDef">
+          <p>
+            <me>m=\frac{\text{rise}}{\text{run}}=\frac{(p_1-p_0)}{(q_1-q_0 )}</me>
+          </p>
+        </assemblage>
+      </statement>
+    </definition>
+
 
     <example>
       <title>Supply and Demand Curves</title>
@@ -113,47 +171,7 @@ This is what to say about slope.
       </sbsgroup>
     </assemblage>
 
-    <definition>
-      <title>Slope</title>
-      <statement>
-        <p>The slope of a line through the points <m>P_0=(q_0,p_0)</m> and <m>P_1=(q_1,p_1)</m> is given by:</p>
-        <assemblage xml:id="SlopeDef">
-          <p>
-            <me>m=\frac{\text{rise}}{\text{run}}=\frac{(p_1-p_0)}{(q_1-q_0 )}</me>
-          </p>
-        </assemblage>
-      </statement>
-    </definition>
 
-
-
-    <image width="50%" source="images/sec1-1-slope.png">
-      <shortdescription>The intersection of a supply and demand curve</shortdescription>
-    </image>
-
-    <p>
-        There are two other forms of a line that are sometimes used.
-        The general form of a line is a standard notation used in mathematics.
-        The 2-point form of a line is very handy in those situations where we are not given a slope,
-        but we are given information about two points that lie on the line.
-    </p>
-
-    <assemblage xml:id="TwoPtLinearEquations">
-      <sbsgroup widths="50% 50%">
-        <sidebyside>
-          <p>
-            <m>a x+b y+c=0</m>
-          </p>
-          <p> The general form of a line</p>
-        </sidebyside>
-        <sidebyside>
-          <p>
-            <m>y-y_0=\frac{y_1-y_0}{x_1-x_0 }(x-x_0)</m>
-          </p>
-          <p>The 2-point form of a line</p>
-        </sidebyside>
-      </sbsgroup>
-    </assemblage>
 
     <p>
         As above, in the setting of this course we may be using <m>p</m>
