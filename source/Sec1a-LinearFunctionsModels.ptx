@@ -28,10 +28,16 @@
 
     <p>
         Remember that lines can be written in several different forms.
-        If we are given the slope and the <m>y</m>-intercept,
-        the slope-intercept form will be the equation of choice.
-        If we are given the slope and a different point (not the <m>y</m>-intercept), it might be more efficient to use the point-slope form of a line.
-        It will also be useful to know the general form of a line, which sets one side equal to zero. 
+    </p>
+    <p>
+        If we are given a line's slope (<m>m</m>) and its <m>y</m>-intercept (<m>b</m>),
+        then the slope-intercept form will be the equation of choice.
+   </p>
+    <p>
+        If we are given the line's slope and a different point, not the <m>y</m>-intercept, such as <m>P_0=(x_0,y_0)</m>, we'll often want to use the point-slope form of a line.
+  </p>
+    <p>
+        It will also be useful to know the general form of a line, which has one side set equal to zero. 
     </p>
 
     <assemblage xml:id="KindsOfLinearEquations">
@@ -62,8 +68,12 @@
   </subsection>
   <subsection>
     <title>Slope of a line</title>
-<p>
 
+    <p>
+        Given two points that lie on a line, we can calculate the slope of the line. 
+    </p>
+
+<p>
     <definition>
       <title>Slope</title>
       <statement>
@@ -76,17 +86,9 @@
       </statement>
     </definition>
 
-    <image width="50%" source="images/sec1-1-slope.png">
-      <shortdescription>The intersection of a supply and demand curve</shortdescription>
-    </image>
-
-
-    <p>
-        There are two other forms of a line that are sometimes used.
-        The general form of a line is a standard notation used in mathematics.
-        The 2-point form of a line is very handy in those situations where we are not given a slope,
-        but we are given information about two points that lie on the line.
-    </p>
+<p>
+We can use that slope formula to write the equation of a line in a fourth form, the 2-point form. 
+</p>
 
     <assemblage xml:id="TwoPtLinearEquations">
       <sbsgroup widths="50% 50%">
@@ -122,6 +124,10 @@
         </assemblage>
       </statement>
     </definition>
+
+    <image width="50%" source="images/sec1-1-slope.png">
+      <shortdescription>The intersection of a supply and demand curve</shortdescription>
+    </image>
 
 
     <example>
