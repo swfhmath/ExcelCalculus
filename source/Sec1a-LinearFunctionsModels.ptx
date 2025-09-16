@@ -114,6 +114,7 @@ We can use that slope formula to write the equation of a line in a fourth form, 
     <p>
         Following the conventions of microeconomics, we will often use the variable <m>q</m> instead of <m>x</m> (representing the <em>quantity</em> of a good produced or consumed), and <m>p</m> instead of <m>y</m> (representing <em>price</em>).
         </p>
+
         <p>
         We will also follow the conventions of economics in treating quantity as the independent variable.
         (The <m>q</m>-axis will be the horizontal axis.  This can seem like a backwards choice, but a quick web search for supply and demand equilibrium will convince you of this standard usage.)
@@ -126,7 +127,7 @@ We can use that slope formula to write the equation of a line in a fourth form, 
             <me>m=\frac{\text{rise}}{\text{run}}=\frac{(p_1-p_0)}{(q_1-q_0 )}</me>
           </p>
         </assemblage>
-</p>
+
 
     <image width="50%" source="images/sec1-1-slope.png">
       <shortdescription>The intersection of a supply and demand curve</shortdescription>
