@@ -66,6 +66,8 @@
     </assemblage>
 
   </subsection>
+
+
   <subsection>
     <title>Slope of a line</title>
 
@@ -77,7 +79,8 @@
     <definition>
       <title>Slope</title>
       <statement>
-        <p>The slope of a line through the points <m>P_0=(x_0,y_0)</m> and <m>P_1=(x_1,y_1)</m> is given by:</p>
+        <p>The slope of a line through the points <m>P_0=(x_0,y_0)</m> and <m>P_1=(x_1,y_1)</m> is given by:
+        </p>
         <assemblage xml:id="SlopeDef">
           <p>
             <me>m=\frac{\text{rise}}{\text{run}}=\frac{(y_1-y_0)}{(x_1-x_0 )}</me>
@@ -102,9 +105,9 @@ We can use that slope formula to write the equation of a line in a fourth form, 
       </sbsgroup>
     </assemblage>
 
-</p>
-
  </subsection>
+
+
   <subsection>
     <title>Applying Lines to Business, and Adopting some Conventions of Economics</title>
     <p>
