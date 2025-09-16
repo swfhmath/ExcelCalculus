@@ -29,8 +29,8 @@
     <p>
         Remember that lines can be written in several different forms.
         If we are given the slope and the <m>y</m>-intercept,
-        the slope intercept form will be the equation of choice.
-        If we are given a point and a slope, it might be faster if we use the point-slope form of a line.
+        the slope-intercept form will be the equation of choice.
+        If we are given the slope and a different point (not the <m>y</m>-intercept), it might be more efficient to use the point-slope form of a line.
     </p>
 
     <assemblage xml:id="KindsOfLinearEquations">
@@ -51,6 +51,14 @@
         </sidebyside>
       </sbsgroup>
     </assemblage>
+
+  </subsection>
+  <subsection>
+    <title>Slope of a line</title>
+<p>
+This is what to say about slope.
+</p>
+
 
     <p>
         Following the conventions of microeconomics, we will often use the variable <m>q</m> instead of <m>x</m> (representing the <em>quantity</em> of a good produced or consumed), and <m>p</m> instead of <m>y</m> (representing <em>price</em>).
@@ -170,10 +178,7 @@
       </sbsgroup>
     </assemblage>
 
- </subsection>
-
- <subsection>
-    <title>Worked Examples</title>
+ 
 
     <example>
       <title>Finding four versions of a line</title>
