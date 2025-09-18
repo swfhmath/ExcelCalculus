@@ -20,7 +20,45 @@
           <li>	Logarithmic functions</li>
         </ul>
       </p>
+
+      <p>
+      But first, let's review the concepts of function and function notation, along with variables and parameters. 
+      </p>
     </introduction>
+
+<subsection>
+      <title>Function Notation, Variables, and Parameters</title>
+      <p>
+    The equation of a line, <m>y = mx + b</m>, describes the relationship between two changing quantities or <term>variables</term>, <m>x</m> and <m>y</m>. It will often be useful to write our equations using <term>function notation</term>, for example 
+    <me>f(x) = mx + b</me>. </p>
+    <p>
+    The parentheses around the <m>x</m> indicate that <m>x</m> is considered our input, or <term>indepdendent variable</term>. The result of the calculation is <m>f(x)</m>, and it can be helpful to notice that <m>y=f(x)</m>; both <m>f(x)</m> and <m>y</m> are names for our result, output, or <term>dependent variable</term>.
+    </p>
+
+  <p>
+    There is also a useful distinction between <term>variables</term> and <term>parameters</term>. 
+    The <term>variables</term> change within a particular situation, while parameters are fixed values that define a particular situation.
+  </p>
+  <example><title>Variables and Parameters</title>
+      <statement>
+        <p>
+          Consider a linear function describing the demand price for a good,
+           <me>p=\frac{-1}{100}q+18.</me>
+           or in function notation <me>f(q)=\frac{-1}{100}q+18.</me>
+           </p>
+           <p> 
+          Here, <m>q</m> is the quantity demanded, and <m>p=f(q)</m> is the price per unit.  We can use the function notation to describe different (quantity,price) pairs.  For instance, <m>f(200)=16</m> means that when the quantity demanded is 200 units, the price per unit is $16.<m>f(300)=15</m> means that when the quantity demanded is 300 units, the price per unit is $15.  
+          </p>
+          <p>
+          In this example, <m>q</m> and <m>p=f(q)</m> are variables; we consider varying demand levels such as 200 or 300, and varying prices such as $15 or $16.</p>
+          <p> On the other hand, the numbers <m>m=\frac{-1}{100}</m> and <m>b=100</m> are <term>parameters</term> that don't change within this situation.  They define the relationship between <m>q</m> and <m>p</m> that we are examining in this example.  We can consider other situations with different parameters. For example, <me>f(q)=\frac{-1}{25}q+18</me>, would describe a situation where consumer demand is more price-sensitive. 
+        </p>
+      </statement>
+     
+    </example>
+
+</subsection>
+
 
     <subsection>
       <title>Quadratic Functions</title>
